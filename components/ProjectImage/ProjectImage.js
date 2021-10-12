@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { ImageLoader } from "next/image"
 
 import styles from "./ProjectImage.module.css"
 

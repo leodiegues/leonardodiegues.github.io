@@ -5,17 +5,17 @@ import styles from "./Navbar.module.css"
 const social = [
   {
     title: "LinkedIn",
-    logo: "/images/linkedin-logo.png",
+    logo: "linkedin-logo.png",
     url: "url"
   },
   {
     title: "Twitter",
-    logo: "/images/twitter-logo.png",
+    logo: "twitter-logo.png",
     url: "https://twitter.com/leonardodiegues"
   },
   {
     title: "Github",
-    logo: "/images/github-logo.png",
+    logo: "github-logo.png",
     url: "https://github.com/leonardodiegues"
   },
 ]
